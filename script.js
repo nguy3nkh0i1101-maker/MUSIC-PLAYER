@@ -46,8 +46,8 @@ let songs = [
         artist: "Chase Atlantic",
         album: "Beauty in Death",
         albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.VwivM--7Xx_SmgsqXBLi8AAAAA&pid=Api&P=0&h=220",
-        audioSrc: "consume.mp3",
-        videoBgSrc: "consume.mp4", // Path video background khusus lagu ini
+        audioSrc: "audio/consume.mp3",
+        videoBgSrc: "videos/consume.mp4", // Path video background khusus lagu ini
         // Lirik dengan timestamp dalam detik
         lyrics: [
             { time: 0.8, text: "She said, Careful, or you'll lose it" },
